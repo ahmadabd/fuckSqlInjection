@@ -1,4 +1,4 @@
-## Remove sql command in lowerCase or upperCase from user input
+## Remove sql command in lowerCase or upperCase from input.
 
 class fuckSqlInjection:
     def __init__(self):
